@@ -1,4 +1,5 @@
 Django Blog
+
 Un blog completo desarrollado con Django 5.1.6, que incluye sistema de usuarios, gestión de posts y una interfaz responsive usando Bootstrap 5.
 🚀 Características
 
