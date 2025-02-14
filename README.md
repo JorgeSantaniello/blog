@@ -120,4 +120,4 @@ django-widget-tweaks - Personalización de formularios
 
 ✨ Autor
 
-Tu Nombre - Trabajo Inicial - tuusuario
+JorgeSantaniello - Blogsito
