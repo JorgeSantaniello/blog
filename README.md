@@ -55,6 +55,12 @@ bashCopypython manage.py createsuperuser
 
 Inicia el servidor
 
+
+
+
+
+
+
 bashCopypython manage.py runserver
 🗂️ Estructura del Proyecto
 Copyblog/
@@ -80,6 +86,13 @@ Copyblog/
             ├── post_detail.html
             ├── post_form.html
             └── post_confirm_delete.html
+
+
+
+
+
+
+            
 💻 Uso
 
 Accede al panel de administración:
