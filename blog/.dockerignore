@@ -1,0 +1,50 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de Python compilados
+_pycache_/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de base de datos
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos de control de versiones
+.git/
+.gitignore
+.gitattributes
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de caché y temporales
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cached/
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos específicos de Django
+local_settings.py
+media/
